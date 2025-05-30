@@ -33,7 +33,7 @@ def _find_column_indexes(data: [], id_column_name: str, value_column_name_1: str
 
 def _find_min_difference(data: [], indexes: (), offset=0) -> (str, int):
     """
-
+    Calculates the minimum difference between two columns of data
     :param data: matrix array of relevant data
     :param indexes: 3-tuple of int values, representing the index position of each column of interest in the data
     :param offset: int value representing how much to offset the index, used if there are leading columns with no header
