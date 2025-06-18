@@ -24,7 +24,7 @@ Each approach has it's tradeoffs
 This program requires Python 3 to run. Optionally, "make" can be utilized as well to run through the provided makefile
 
 #### Installation
-    git clone https://github.com/tsamonte/PriceDropChecker
+    git clone https://github.com/tsamonte/PennymacProgrammingChallenge
 
 ## Usage
 This project runs directly on the command line.
